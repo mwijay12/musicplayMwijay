@@ -1,11 +1,14 @@
-<div align="center">
+## musicplayMwijay
+> High-tier digital infrastructure and product development by **Altraware Technologies**.
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+### 🚀 What is this?
+*The aadvanced moder music and reels player *
 
-  <h1>Built with AI Studio</h2>
+### 🏢 Company
+Developed by the Altraware Technologies Team.
+*   **David Erick Mwijage** - Systems Architect
+*   **Clemence W. N'gunda** - Co-Founder
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+---
+### 📄 License
+This project is **proprietary** to Altraware Technologies. See [LICENSE](LICENSE) for more details.
